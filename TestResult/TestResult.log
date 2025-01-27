@@ -1,0 +1,39 @@
+2025-01-27 16:09:36,554 - INFO - Step Info: #### Test Case:1 ####
+2025-01-27 16:09:37,566 - INFO - Step Pass: Start 'WPT Global' Game Application
+2025-01-27 16:09:37,566 - INFO - Step Info: #Manage Popups
+2025-01-27 16:09:42,960 - INFO - Step Pass: Tap On: 'whileUsingThisApp'
+2025-01-27 16:09:43,783 - INFO - Step Pass: Tap On: 'allow_Button'
+2025-01-27 16:09:50,938 - INFO - Step Pass: Tap On: 'allow_Button'
+2025-01-27 16:10:02,735 - INFO - Step Info: Wait- 'allow_Button' is not displayed. Wait Time: 10.
+2025-01-27 16:10:02,736 - INFO - Step Info: #Login with User Name 'ramkali'
+2025-01-27 16:10:03,372 - INFO - Step Pass: Tap On: 'playNow_Button'
+2025-01-27 16:10:06,633 - INFO - Step Pass: Tap On: 'userName_TextBox'
+2025-01-27 16:10:07,403 - INFO - Step Pass: Type: Text 'ramkali'
+2025-01-27 16:10:10,243 - INFO - Step Pass: Tap On: 'password_TextBox'
+2025-01-27 16:10:10,593 - INFO - Step Pass: Type: Text 'Poker12'
+2025-01-27 16:10:12,454 - INFO - Step Pass: Tap On: 'login_Button'
+2025-01-27 16:10:15,378 - ERROR - Step Fail: Failed to Login as user: ramkali and password: Poker12
+2025-01-27 16:10:15,966 - INFO - Step Pass: Tap On: 'close_Button'
+2025-01-27 16:10:20,967 - INFO - Step Info: #### Test Case:2 ####
+2025-01-27 16:10:22,948 - INFO - Step Pass: Start 'WPT Global' Game Application
+2025-01-27 16:10:22,949 - INFO - Step Info: #Manage Popups
+2025-01-27 16:10:26,566 - INFO - Step Pass: Tap On: 'whileUsingThisApp'
+2025-01-27 16:10:27,432 - INFO - Step Pass: Tap On: 'allow_Button'
+2025-01-27 16:10:36,483 - INFO - Step Pass: Tap On: 'allow_Button'
+2025-01-27 16:10:47,428 - INFO - Step Info: Wait- 'allow_Button' is not displayed. Wait Time: 10.
+2025-01-27 16:10:47,429 - INFO - Step Info: #Login with User Name 'ramkali'
+2025-01-27 16:10:48,017 - INFO - Step Pass: Tap On: 'playNow_Button'
+2025-01-27 16:10:51,089 - INFO - Step Pass: Tap On: 'userName_TextBox'
+2025-01-27 16:10:51,676 - INFO - Step Pass: Type: Text 'ramkali'
+2025-01-27 16:10:54,497 - INFO - Step Pass: Tap On: 'password_TextBox'
+2025-01-27 16:10:54,859 - INFO - Step Pass: Type: Text 'Poker123'
+2025-01-27 16:10:56,707 - INFO - Step Pass: Tap On: 'login_Button'
+2025-01-27 16:11:07,607 - INFO - Step Pass: Return to 'WPT Global' Game Application
+2025-01-27 16:11:10,704 - INFO - Step Pass: Tap On: 'okay_Button'
+2025-01-27 16:11:14,502 - INFO - Step Pass: Tap On: 'okay_Button'
+2025-01-27 16:11:24,371 - INFO - Step Info: Wait- 'okay_Button' is not displayed. Wait Time: 5.
+2025-01-27 16:11:24,372 - INFO - Step Info: Verify User Details
+2025-01-27 16:11:25,227 - INFO - Step Pass: Tap On: 'player_icon'
+2025-01-27 16:11:25,563 - INFO - Step Pass: Verification of Player name for user 'ramkali' is successful!
+2025-01-27 16:11:25,876 - INFO - Step Pass: Verification of Player Id for user 'ramkali' is successful!
+2025-01-27 16:11:26,072 - INFO - Step Pass: Stop 'WPT Global' Game Application

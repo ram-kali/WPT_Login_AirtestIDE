@@ -1,0 +1,33 @@
+{
+  "config": 
+  {
+    "device":"Android",
+    "device_name": "Samsung S7+",
+    "game_name": "WPT Poker",
+    "device_URL": "android:///",
+    "appName": "WPT Global",
+    "appPackage": "com.wptglobal.wptg",
+    "userName": "ramkali",
+    "password": "Poker123",
+	"invalid_password": "Poker12",
+    "apkPath": "./apk/interview_test.apk",
+    "device_id": "R52R402G59F"
+  },
+  "imagePath":
+  {
+    "whileUsingThisApp": "./ReferenceImages/whileUsingThisApp.png",
+    "allow_Button": "./ReferenceImages/allow_Button.png",
+    "dontAllow_Button" :"./ReferenceImages/dontAllow_Button.png",
+    "playNow_Button" : "./ReferenceImages/playNow_Button.png",
+    "userName_TextBox" :"./ReferenceImages/userName_TextBox.png",
+    "password_TextBox" : "./ReferenceImages/password_TextBox.png",
+    "login_Button" : "./ReferenceImages/login_Button.png",
+    "WPT_icon" : "./ReferenceImages/WPT_icon.png",
+    "okay_Button" : "ReferenceImages/okay_Button.png",
+    "player_icon" : "./ReferenceImages/player_icon.png",
+    "player_name" : "./ReferenceImages/player_name.png",
+    "player_id" : "./ReferenceImages/player_id.png",
+	"login_Error" : "./ReferenceImages/login_Error.png",
+	"close_Button" : "./ReferenceImages/close_Button.png"    
+  }  
+}
